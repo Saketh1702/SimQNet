@@ -2,7 +2,6 @@
 Machine Learning Model which predicts whether the provided pairs of questions have a similar meaning or not 
 Breif Description :
 
-image
 
 Quora is a platform for learning and sharing information. It's a place where we can ask questions and get responses from people who have unique perspectives and answers.With over 100 million monthly users on Quora, it's no wonder that many individuals ask similar questions. Many questions with the same objective can lead people spending more time looking for the best solution to their Query, as well as writers feeling obligated to respond to multiple variations of the same question. so,this machine learning model can find similar questions and sloves our query with no time.
 
